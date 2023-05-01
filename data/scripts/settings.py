@@ -51,7 +51,7 @@ questionsList = {
   "Who was the author of 'The Communist Manifesto'?": "marx",
   "What is the name of the famous ballet by Tchaikovsky about a young girl's Christmas dream?": "nutcracker",
   "Who was the famous American artist known for his paintings of soup cans and other consumer goods?": "warhol",
-  "What is the name of the famous Renaissance artist known for painting the ceiling of the Sistine Chapel?": "michelangelo"
+  "What is the name of the famous Renaissance artist known for painting the ceiling of the Sistine Chapel?": "michelangelo",
   "What is the smallest country in the world?": "vatican",
   "What is the capital city of Canada?": "ottawa",
   "What is the largest planet in our solar system?": "jupiter",
