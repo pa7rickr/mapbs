@@ -343,8 +343,7 @@ class Enhancement(bs.Actor):
 			display = icon + ' ' + roles + ' | #' + str(rank)
 		        PermissionEffect(owner = spaz.node,prefix = display,prefixAnim = {0: (1,1,1)},type=2)
 		    else:
-			display = icon + ' ' + roles + ' | #' + str(rank)
-		        PermissionEffect(owner=spaz.node, prefix='🎮' + ' Normal | #' + str(rank),prefixAnim={0: (1,1,1)},type=2)
+https://github.com/pa7rickr/mapbs		        PermissionEffect(owner=spaz.node, prefix='🎮' + ' Normal | #' + str(rank),prefixAnim={0: (1,1,1)},type=2)
 		                     
 	
 
