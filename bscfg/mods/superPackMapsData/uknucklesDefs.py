@@ -1,0 +1,22 @@
+# This file generated from "doomShroomLevel.ma"
+points = {}
+boxes = {}
+points['ffaSpawn1'] = (-5.16986, 7.37114, 1.31629) + (1.0, 0.05, 2.68294)
+points['ffaSpawn2'] = (5.38703, 7.46782, 1.18874) + (1.0, 0.05, 2.68294)
+points['ffaSpawn3'] = (0.72072, 7.48784, 4.4067) + (4.45552, 0.05, 0.2723)
+points['ffaSpawn4'] = (0.19814, 7.59405, -1.78086) + (4.45552, 0.05, 0.2723)
+points['flag1'] = (-9.53941, 7.32204, 1.40762)
+points['flag2'] = (9.64776, 7.27427, 1.64154)
+points['flagDefault'] = (-0.07933, 8.0041, 1.8187)
+points['powerupSpawn1'] = (3.64065, 8.32883, -0.84927)
+points['powerupSpawn2'] = (-3.44296, 8.20729, 3.54663)
+points['powerupSpawn3'] = (4.74955, 8.15567, 3.79212)
+points['powerupSpawn4'] = (-3.14096, 8.3116, -0.75746)
+points['shadowLowerBottom'] = (0.59646, 4.84209, 8.13002)
+points['shadowLowerTop'] = (0.59646, 5.76832, 8.13002)
+points['shadowUpperBottom'] = (0.59646, 10.48329, 8.13002)
+points['shadowUpperTop'] = (0.59646, 12.96152, 8.13002)
+points['spawn1'] = (-5.18165, 7.37114, 1.31629) + (1.0, 0.05, 2.68294)
+points['spawn2'] = (5.38703, 7.46782, 1.18874) + (1.0, 0.05, 2.68294)
+boxes['areaOfInterestBounds'] = (0.16876, 7.39039, 1.54256) + (0, 0, 0) + (18.28748, 8.30563, 16.56884)
+boxes['levelBounds'] = (0.45666, 6.40209, -1.05547) + (0, 0, 0) + (27.75073, 14.44528, 22.98966)
